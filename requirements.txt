@@ -1,0 +1,12 @@
+dash
+dash-bootstrap-components
+pandas
+numpy
+scipy
+plotly
+yfinance
+pmdarima
+vaderSentiment
+requests
+xmltodict
+statsmodels
